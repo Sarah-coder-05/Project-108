@@ -1,0 +1,66 @@
+body{
+    background-image: linear-gradient(rgb(241, 126, 217), rgb(245, 245, 143));
+    color: white;
+}
+#predict_lab
+{
+    background-color: white;
+    font-size: 14px;
+    padding: 6px;
+    border-radius: 10px;
+   
+  
+}
+
+#heading{
+    font-size: 30px;
+    font-family: 'Sansita', sans-serif;
+    color: brown;
+    border-style: solid;
+    border-radius: 10px;
+    background: linear-gradient(to right, red,orange,yellow,rgb(82, 238, 82),rgb(132, 177, 245),rgb(191, 123, 240),violet);
+    border-width: 10px;
+    border-color: cyan;
+}
+#btn_capture
+{
+    color: black;
+    border: black;
+    border-radius: 30px;
+    border-style: double;
+    background-image: linear-gradient(to right, red,orange,yellow,rgb(82, 238, 82),rgb(95, 95, 255),rgb(166, 57, 243),violet);
+}
+#p1
+{
+    font-family: 'Oswald', sans-serif;
+    
+}
+#p2
+{
+    font-family: 'Oswald', sans-serif;
+}
+#result_camera
+{
+  border: 2px dashed black;
+  width: 330px;
+  height: 245px; 
+  border-radius: 2px; 
+}
+
+#webcam_camera
+{
+  width: 330px;
+  height: 245px; 
+  border-radius: 2px;
+  border: 2px dashed black; 
+}
+
+#btn_snapshot
+{
+    background-image: linear-gradient(to right, red,orange,yellow,rgb(82, 238, 82),rgb(95, 95, 255),rgb(166, 57, 243),violet);
+    color: black;
+    border: black;
+    border-radius: 30px;
+    border-style: double;
+}
+
